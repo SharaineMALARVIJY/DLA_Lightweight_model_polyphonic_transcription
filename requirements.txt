@@ -1,0 +1,6 @@
+matplotlib
+numpy
+basic-pitch
+onnxruntime
+pygame
+jupyterlab
